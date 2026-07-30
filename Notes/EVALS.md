@@ -1,4 +1,4 @@
-# 17 — Evaluating RAG Systems
+# 2 — Evaluating RAG Systems
 
 > **One-line summary:** Evals are automated tests that measure whether your RAG pipeline is actually giving correct, grounded, and relevant answers — before users tell you it isn't.
 
